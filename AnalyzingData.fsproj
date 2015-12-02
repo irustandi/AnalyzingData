@@ -49,9 +49,9 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Tutorial.fsx" />
     <None Include="Chapter01.fsx" />
     <None Include="Chapter02.fsx" />
+    <None Include="Chapter03.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
